@@ -1,0 +1,6 @@
+@FoodNutritionBackend_HostAddress = http://localhost:5181
+
+GET {{FoodNutritionBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
